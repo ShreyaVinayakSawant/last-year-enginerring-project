@@ -1,0 +1,15 @@
+# Large model files (too big for GitHub)
+cnn_model.pkl
+plant_disease_model.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
